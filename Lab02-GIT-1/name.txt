@@ -1,1 +1,2 @@
-Name: Berna Selek
+Name: Berna
+Surname: Selek
