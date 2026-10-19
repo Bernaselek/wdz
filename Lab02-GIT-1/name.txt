@@ -1,2 +1,2 @@
-Name: Berna
-Surname: Selek
+Name: Berna Selek
+University: PJATK
